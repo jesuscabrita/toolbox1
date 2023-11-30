@@ -35,6 +35,18 @@ Para iniciar las pruebas, asegúrate de estar en la raíz del proyecto y ejecuta
 
 **Esto ejecutará las pruebas de las rutas del proyecto.**
 
+## Apis Disponibles:
+
+prueba en postman:
+
+`GET` : MUESTRA LA LISTA DE TODOS LOS ARCHIVOS QUE NO ESTAN VACIOS Y DESCARGADOS 
+
+`http://localhost:5000/api/file/data`
+
+`GET` : MUESTRA UN ARCHIVO EN ESPECIFICO EN ESTA CASO ESTA "test18.cvs"  de ejemplo
+
+`http://localhost:5000/api/file/test18.csv`
+
 ## Scripts Disponibles
 
 ### Backend y Frontend
