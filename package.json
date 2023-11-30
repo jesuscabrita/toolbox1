@@ -42,6 +42,8 @@
     "html-webpack-plugin": "^5.5.3",
     "mocha": "^10.2.0",
     "style-loader": "^3.3.3",
-    "webpack-cli": "^5.1.4"
+    "webpack-cli": "^5.1.4",
+    "webpack-plugin-banner": "^5.0.2",
+    "webpack-unused": "^0.1.0"
   }
 }
